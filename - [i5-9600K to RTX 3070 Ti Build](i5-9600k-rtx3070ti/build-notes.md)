@@ -1,0 +1,57 @@
+# 🖥️ PC Build & Upgrade Project — i5-9600K to RTX 3070 Ti
+
+## 📄 Overview
+Documented and completed a full PC build and upgrade project, focused on **optimizing performance, reliability, and cleanliness**.  
+The process included disassembling and cleaning a used PC, upgrading components for better gaming and productivity, and overclocking the CPU for improved performance.  
+This project highlights my ability to manage both **hardware upgrades** and **system optimization**.
+
+---
+
+## 🛠️ Initial Build (From Previous Owner)
+- **CPU:** Intel Core i5-9600K
+- **GPU:** None initially
+- **RAM:** Corsair VENGEANCE RGB Pro DDR4 16GB
+- **PSU:** EVGA 600 BR, 80+ Bronze 600W
+- **Storage:** 2TB HDD, 250GB SSD
+- **Cooling:** NZXT Kraken X53 AIO
+- **Motherboard:** ASUS PRIME Z390
+- **Monitor:** Basic 1080p
+
+💡 **Refurbishment Work:**
+- Disassembled and cleaned the PC due to heavy dust and smoke residue
+- Rewired cables for improved airflow
+- Reapplied thermal paste to CPU
+
+---
+
+## 🔼 Upgrades Completed
+- **GPU:** Borrowed ASUS R9 390 (temporary), then upgraded to NVIDIA RTX 3070 Ti
+- **Storage:** Upgraded to Samsung 990 PRO 1TB NVMe SSD  
+  - Cloned OS from 250GB SSD to NVMe  
+  - Moved data to 2TB HDD  
+  - Repurposed NVMe as boot drive
+- **PSU:** Upgraded to Corsair RM750e 750W
+- **Monitor:** Upgraded to ASUS TUF Gaming 27" 1440p HDR
+- **CPU Overclock:** Increased from **3.7 GHz base** to **4.6 GHz @ 1.200V**  
+  - Stress tested with **Prime95** and **Cinebench**  
+  - Monitored temps for stability and thermal efficiency
+
+---
+
+## ⚙️ Current Configuration
+- **CPU:** Intel i5-9600K @ 4.6 GHz
+- **GPU:** NVIDIA RTX 3070 Ti
+- **RAM:** Corsair VENGEANCE RGB Pro DDR4 16GB *(planned upgrade to 32GB)*
+- **PSU:** Corsair RM750e 750W
+- **Storage:** Samsung 990 PRO NVMe SSD 1TB, 250GB SSD, 2TB HDD *(HDD not currently in use)*
+- **Cooling:** NZXT Kraken X53 AIO
+- **Monitor:** ASUS TUF Gaming 27" 1440p HDR
+
+---
+
+## 🧠 Skills Demonstrated
+- Computer Hardware Assembly & Upgrades
+- Software Installation & Configuration
+- Technical Troubleshooting
+- Overclocking & Performance Optimization
+- System Maintenance & Cleaning
